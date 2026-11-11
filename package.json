@@ -1,0 +1,13 @@
+{
+  "name": "endurance-intelligence",
+  "private": true,
+  "type": "module",
+  "description": "AI-powered performance intelligence for endurance coaches.",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "dev": "node scripts/dev-server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
